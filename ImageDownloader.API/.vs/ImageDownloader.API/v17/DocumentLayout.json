@@ -3,29 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{165596C2-56CB-4BAE-B8AE-4E6D11978B0A}|ImageDownloader\\ImageDownloader.csproj|c:\\users\\mahamud\\downloads\\assessment\\image-downloader-api\\imagedownloader.api\\imagedownloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165596C2-56CB-4BAE-B8AE-4E6D11978B0A}|ImageDownloader\\ImageDownloader.csproj|solutionrelative:imagedownloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MAHAMUD\\Downloads\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{165596C2-56CB-4BAE-B8AE-4E6D11978B0A}|ImageDownloader\\ImageDownloader.csproj|c:\\users\\mahamud\\downloads\\assessment\\image-downloader-api\\imagedownloader.api\\imagedownloader\\controllers\\imagedownloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165596C2-56CB-4BAE-B8AE-4E6D11978B0A}|ImageDownloader\\ImageDownloader.csproj|solutionrelative:imagedownloader\\controllers\\imagedownloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{165596C2-56CB-4BAE-B8AE-4E6D11978B0A}|ImageDownloader\\ImageDownloader.csproj|c:\\users\\mahamud\\downloads\\assessment\\image-downloader-api\\imagedownloader.api\\imagedownloader\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{165596C2-56CB-4BAE-B8AE-4E6D11978B0A}|ImageDownloader\\ImageDownloader.csproj|solutionrelative:imagedownloader\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165596C2-56CB-4BAE-B8AE-4E6D11978B0A}|ImageDownloader\\ImageDownloader.csproj|c:\\users\\mahamud\\downloads\\assessment\\image-downloader-api\\imagedownloader.api\\imagedownloader\\controllers\\imagedownloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165596C2-56CB-4BAE-B8AE-4E6D11978B0A}|ImageDownloader\\ImageDownloader.csproj|solutionrelative:imagedownloader\\controllers\\imagedownloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MAHAMUD\\Downloads\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Controllers\\ImageDownloadController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MAHAMUD\\Downloads\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Services\\ImageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{165596C2-56CB-4BAE-B8AE-4E6D11978B0A}|ImageDownloader\\ImageDownloader.csproj|c:\\users\\mahamud\\downloads\\assessment\\image-downloader-api\\imagedownloader.api\\imagedownloader\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{165596C2-56CB-4BAE-B8AE-4E6D11978B0A}|ImageDownloader\\ImageDownloader.csproj|solutionrelative:imagedownloader\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MAHAMUD\\Downloads\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Interfaces\\IImageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MAHAMUD\\Downloads\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165596C2-56CB-4BAE-B8AE-4E6D11978B0A}|ImageDownloader\\ImageDownloader.csproj|c:\\users\\mahamud\\downloads\\assessment\\image-downloader-api\\imagedownloader.api\\imagedownloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165596C2-56CB-4BAE-B8AE-4E6D11978B0A}|ImageDownloader\\ImageDownloader.csproj|solutionrelative:imagedownloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{165596C2-56CB-4BAE-B8AE-4E6D11978B0A}|ImageDownloader\\ImageDownloader.csproj|c:\\users\\mahamud\\downloads\\assessment\\image-downloader-api\\imagedownloader.api\\imagedownloader\\models\\requesteddownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,11 +40,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\MAHAMUD\\Downloads\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Interfaces\\IImageService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Interfaces\\IImageService.cs",
+              "ToolTip": "C:\\Users\\MAHAMUD\\Downloads\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Interfaces\\IImageService.cs",
+              "RelativeToolTip": "..\\..\\..\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Interfaces\\IImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:14:24.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Program.cs",
+              "RelativeDocumentMoniker": "ImageDownloader\\Program.cs",
+              "ToolTip": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Program.cs",
+              "RelativeToolTip": "ImageDownloader\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:49:12.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "ImageDownloader\\Services\\ImageService.cs",
+              "ToolTip": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Services\\ImageService.cs",
+              "RelativeToolTip": "ImageDownloader\\Services\\ImageService.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAtwGkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:30:35.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Interfaces\\IImageService.cs",
+              "RelativeDocumentMoniker": "ImageDownloader\\Interfaces\\IImageService.cs",
+              "ToolTip": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Interfaces\\IImageService.cs",
+              "RelativeToolTip": "ImageDownloader\\Interfaces\\IImageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:29:32.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MAHAMUD\\Downloads\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Program.cs",
@@ -61,58 +110,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Program.cs",
-              "RelativeDocumentMoniker": "ImageDownloader\\Program.cs",
-              "ToolTip": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Program.cs",
-              "RelativeToolTip": "ImageDownloader\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T15:49:12.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ImageDownloadController.cs",
-              "DocumentMoniker": "C:\\Users\\MAHAMUD\\Downloads\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Controllers\\ImageDownloadController.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Controllers\\ImageDownloadController.cs",
-              "ToolTip": "C:\\Users\\MAHAMUD\\Downloads\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Controllers\\ImageDownloadController.cs",
-              "RelativeToolTip": "..\\..\\..\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Controllers\\ImageDownloadController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAAAJAAAA",
+              "DocumentMoniker": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Controllers\\ImageDownloadController.cs",
+              "RelativeDocumentMoniker": "ImageDownloader\\Controllers\\ImageDownloadController.cs",
+              "ToolTip": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Controllers\\ImageDownloadController.cs",
+              "RelativeToolTip": "ImageDownloader\\Controllers\\ImageDownloadController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDkAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T15:47:45.998Z",
+              "WhenOpened": "2026-06-11T15:29:25.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ImageService.cs",
-              "DocumentMoniker": "C:\\Users\\MAHAMUD\\Downloads\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Services\\ImageService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Services\\ImageService.cs",
-              "ToolTip": "C:\\Users\\MAHAMUD\\Downloads\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Services\\ImageService.cs",
-              "RelativeToolTip": "..\\..\\..\\V-Project\\V-Project\\image-downloader-api\\ImageDownloader\\ImageDownloader.API\\Services\\ImageService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T15:45:53.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ImageService.cs",
-              "DocumentMoniker": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Services\\ImageService.cs",
-              "RelativeDocumentMoniker": "ImageDownloader\\Services\\ImageService.cs",
-              "ToolTip": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Services\\ImageService.cs",
-              "RelativeToolTip": "ImageDownloader\\Services\\ImageService.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAMwEoAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T15:30:35.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "RequestedDownload.cs",
               "DocumentMoniker": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Models\\RequestedDownload.cs",
               "RelativeDocumentMoniker": "ImageDownloader\\Models\\RequestedDownload.cs",
@@ -124,33 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IImageService.cs",
-              "DocumentMoniker": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Interfaces\\IImageService.cs",
-              "RelativeDocumentMoniker": "ImageDownloader\\Interfaces\\IImageService.cs",
-              "ToolTip": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Interfaces\\IImageService.cs",
-              "RelativeToolTip": "ImageDownloader\\Interfaces\\IImageService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T15:29:32.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ImageDownloadController.cs",
-              "DocumentMoniker": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Controllers\\ImageDownloadController.cs",
-              "RelativeDocumentMoniker": "ImageDownloader\\Controllers\\ImageDownloadController.cs",
-              "ToolTip": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Controllers\\ImageDownloadController.cs",
-              "RelativeToolTip": "ImageDownloader\\Controllers\\ImageDownloadController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAUwCoAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T15:29:25.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ResponseDownload.cs",
               "DocumentMoniker": "C:\\Users\\MAHAMUD\\Downloads\\Assessment\\image-downloader-api\\ImageDownloader.API\\ImageDownloader\\Models\\ResponseDownload.cs",
               "RelativeDocumentMoniker": "ImageDownloader\\Models\\ResponseDownload.cs",

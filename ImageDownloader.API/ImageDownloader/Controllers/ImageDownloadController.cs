@@ -45,7 +45,30 @@ namespace ImageDownloader.API.Controllers
             var statusCode = result.Success ? 200 : 207;
             return StatusCode(statusCode, result);
         }
+        [HttpGet("get-image-by-name/{image_name}")]
+        public async Task<IActionResult> GetImageByName(
+        [FromRoute] string image_name,
+        CancellationToken ct)
+        {
+            if (string.IsNullOrWhiteSpace(image_name))
+                return BadRequest("image_name cannot be empty.");
 
+            try
+            {
+                var base64 = await _imageService.GetImageAsBase64Async(image_name, ct);
+
+                return Ok(new
+                {
+                    FileName = image_name,
+                    Base64String = base64
+                });
+            }
+            catch (FileNotFoundException ex)
+            {
+                _logger.LogWarning(ex.Message);
+                return NotFound(new { Message = ex.Message });
+            }
+        }
 
 
     }

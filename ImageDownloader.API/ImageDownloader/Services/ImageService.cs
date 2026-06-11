@@ -103,6 +103,19 @@ namespace ImageDownloader.API.Services
             "image/svg+xml" => ".svg",
             _ => ".jpg"
         };
+        public async Task<string> GetImageAsBase64Async(string imageName, CancellationToken ct = default)
+        {
+
+            var safeName = Path.GetFileName(imageName);
+            var fullPath = Path.Combine(_storageFolder, safeName);
+
+            if (!File.Exists(fullPath))
+                throw new FileNotFoundException($"Image '{safeName}' not found on server.");
+
+
+            var bytes = await File.ReadAllBytesAsync(fullPath, ct);
+            return Convert.ToBase64String(bytes);
+        }
     }
 
 }
