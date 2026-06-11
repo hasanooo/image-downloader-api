@@ -164,7 +164,7 @@ To minimize memory usage:
 * C#
 * HttpClientFactory
 * SemaphoreSlim
-* Swagger / OpenAPI
+* Swagger
 
 ---
 
