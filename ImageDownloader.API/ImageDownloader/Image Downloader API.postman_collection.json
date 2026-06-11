@@ -1,0 +1,76 @@
+{
+  "info": {
+    "_postman_id": "14442816-f870-4d74-b945-e5ca1072ecc4",
+    "name": "Image Downloader API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "32392752"
+  },
+  "item": [
+    {
+      "name": "Download",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "accept",
+            "value": "*/*"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"imageUrls\": [\n    \"https://picsum.photos/id/1/400/300\",\n    \"https://picsum.photos/id/2/400/300\",\n    \"https://picsum.photos/id/3/400/300\"\n  ],\n  \"maxDownloadAtOnce\": 2\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://localhost:7048/api/ImageDownload/download",
+          "protocol": "https",
+          "host": [
+            "localhost"
+          ],
+          "port": "7048",
+          "path": [
+            "api",
+            "ImageDownload",
+            "download"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "GetImageByName",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "accept",
+            "value": "*/*"
+          }
+        ],
+        "url": {
+          "raw": "https://localhost:7048/api/ImageDownload/get-image-by-name/903db0d9-4bd4-4210-8626-dbc53903c764.jpg",
+          "protocol": "https",
+          "host": [
+            "localhost"
+          ],
+          "port": "7048",
+          "path": [
+            "api",
+            "ImageDownload",
+            "get-image-by-name",
+            "903db0d9-4bd4-4210-8626-dbc53903c764.jpg"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

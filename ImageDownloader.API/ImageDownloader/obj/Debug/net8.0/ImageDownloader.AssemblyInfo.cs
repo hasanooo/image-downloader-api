@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImageDownloader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+060eb5dcfda20daf5fbd584d7e7c255dd1855278")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2818e8dad27c18dff8cda0a7027253ef0dcd759")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImageDownloader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImageDownloader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
